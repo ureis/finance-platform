@@ -1,0 +1,11 @@
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\bin\Debug\net10.0\Quotes.Domain.deps.json
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\bin\Debug\net10.0\Quotes.Domain.dll
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\bin\Debug\net10.0\Quotes.Domain.pdb
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.AssemblyInfoInputs.cache
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.AssemblyInfo.cs
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.dll
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\refint\Quotes.Domain.dll
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\Quotes.Domain.pdb
+C:\Projetos\finance-platform\services\quotes-api\Quotes.Domain\obj\Debug\net10.0\ref\Quotes.Domain.dll

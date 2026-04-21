@@ -1,0 +1,11 @@
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\bin\Debug\net10.0\Wallet.Domain.deps.json
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\bin\Debug\net10.0\Wallet.Domain.dll
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\bin\Debug\net10.0\Wallet.Domain.pdb
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.AssemblyInfoInputs.cache
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.AssemblyInfo.cs
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.csproj.CoreCompileInputs.cache
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.dll
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\refint\Wallet.Domain.dll
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\Wallet.Domain.pdb
+c:\Projetos\finance-platform\services\wallet-api\Wallet.Domain\obj\Debug\net10.0\ref\Wallet.Domain.dll

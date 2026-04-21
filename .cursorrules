@@ -1,0 +1,22 @@
+# Regras de Desenvolvimento - Finance Platform
+
+## Geral
+- Use português para comentários, mas código (variáveis, classes, métodos) em inglês.
+- Siga rigorosamente os princípios SOLID.
+- Toda API deve implementar logs com X-Correlation-ID para rastreabilidade.
+
+## Backend .NET 8 (Wallet & Quotes)
+- Use Minimal APIs para endpoints.
+- Arquitetura: Clean Architecture (Domain, Application, Infrastructure, WebApi).
+- Data Access: Entity Framework Core para comandos e Dapper para consultas rápidas.
+- Padrão Result: Evite lançar exceções para lógica de negócio; use um objeto Result<T>.
+- Use Primary Constructors (C# 12).
+
+## Backend Go (Gateway)
+- Use o framework Gin para roteamento.
+- Código idiomático: trate erros explicitamente, use Context.
+- Implemente Circuit Breaker (Sony/Gobreaker) para chamadas às APIs .NET.
+
+## Database (PostgreSQL)
+- Use Migrations no .NET para controle de versão do esquema.
+- Nomes de tabelas em snake_case e plural.

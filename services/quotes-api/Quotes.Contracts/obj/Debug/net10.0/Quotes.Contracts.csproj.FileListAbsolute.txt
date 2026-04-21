@@ -1,0 +1,11 @@
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\bin\Debug\net10.0\Quotes.Contracts.deps.json
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\bin\Debug\net10.0\Quotes.Contracts.dll
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\bin\Debug\net10.0\Quotes.Contracts.pdb
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.AssemblyInfoInputs.cache
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.AssemblyInfo.cs
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.csproj.CoreCompileInputs.cache
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.dll
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\refint\Quotes.Contracts.dll
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\Quotes.Contracts.pdb
+c:\Projetos\finance-platform\services\quotes-api\Quotes.Contracts\obj\Debug\net10.0\ref\Quotes.Contracts.dll
